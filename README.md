@@ -1,2 +1,3 @@
 # API_Tasks
-API para gestion de tareas.
+# Desarrollador: Ing. Jairo Acevedo Gallardo
+# Proposito: API para gestion de tareas, la cual
